@@ -1,4 +1,4 @@
-# study-task-generator
+# Study-Task-Generator (Web project)
 A simple webpage that generates random study tasks and tips.
 
 Features:
