@@ -6,7 +6,7 @@ Features:
 - Click "Generate" button
 - Random study duration and tips will be popped up
 - Input validation
-- "Clear" button
+- "Clear" button to reset
 - Simple UI
 
 Built with: HTML, CSS, JavaScript
